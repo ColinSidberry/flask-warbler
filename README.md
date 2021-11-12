@@ -35,6 +35,9 @@ Warbler is a flask made "Twitter-esk" clone.
     (venv) $ flask run
     ```
 
+## Database Models
+![db_models_diagram](./db_models_diagram.jpg)
+
 ## Featurs Outstanding
 - Sending direct messages
 - Allow admin users
