@@ -43,5 +43,5 @@ Warbler is a flask made "Twitter-esk" clone.
 - Allow admin users
 
 ## Dev Roadmap
-1. Add testing
+1. Ensure comprehensive testing (priority: add testing for message model)
 2. Optimize SQL Query counts
