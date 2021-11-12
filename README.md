@@ -27,7 +27,7 @@ Flask made "Twitter-esk" clone.
 
     Add the following lines to your .env file:
     ```txt
-    SECRET_KEY=abc123
+    SECRET_KEY=fake_key
     DATABASE_URL=postgresql:///warbler
     ```
 4. Run the Server
@@ -44,4 +44,9 @@ Flask made "Twitter-esk" clone.
 
 ## Dev Roadmap
 1. Ensure comprehensive testing (priority: add testing for message model)
-2. Optimize SQL Query counts
+2. Make mobile friendly
+    - Fix alignment of profile image in a message.
+    - Message spacing on mobile
+    - Logout button placement on mobile
+6. Fix profile picture
+7. Optimize SQL Query counts
