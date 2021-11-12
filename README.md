@@ -1,8 +1,15 @@
 # Warbler
-
 Warbler is a flask made "Twitter-esk" clone. 
 
-### Getting Up & Running
+## Features Complete
+- Login/Signup
+- User can: 
+    - view profiles, 
+    - follow other users
+    - create public messages
+    - like messages
+
+## Getting Up & Running
 1. Python Envornment Setup
     ```console
     $ python3 -m venv venv
@@ -27,3 +34,11 @@ Warbler is a flask made "Twitter-esk" clone.
     ```console
     (venv) $ flask run
     ```
+
+## Featurs Outstanding
+- Sending direct messages
+- Allow admin users
+
+## Dev Roadmap
+1. Add testing
+2. Optimize SQL Query counts
