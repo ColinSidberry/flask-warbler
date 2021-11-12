@@ -1,5 +1,5 @@
 # Warbler
-Warbler is a flask made "Twitter-esk" clone. 
+Flask made "Twitter-esk" clone. 
 
 ## Features Complete
 - Login/Signup
@@ -38,7 +38,7 @@ Warbler is a flask made "Twitter-esk" clone.
 ## Database Models
 ![db_models_diagram](./db_models_diagram.jpg)
 
-## Featurs Outstanding
+## Features Outstanding
 - Sending direct messages
 - Allow admin users
 
