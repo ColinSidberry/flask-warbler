@@ -10,7 +10,7 @@ Flask made "Twitter-esk" clone.
     - like messages
 
 ## Getting Up & Running
-1. Python Envornment Setup
+1. Flask Environment Setup
     ```console
     $ python3 -m venv venv
     $ source venv/bin/activate
